@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Coloring Book Generator",
+  "description": "Create personalized, printable coloring books for children. Enter a theme and a name to generate a custom cover and five unique coloring pages, then download the complete book as a PDF. Also includes a helpful AI chat bot.",
+  "requestFramePermissions": []
+}
